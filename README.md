@@ -81,7 +81,7 @@ Instead of showing raw data, it translates system behavior into visual meaning.
 
 ⚙️ Installation
 
-git clone https://github.com/YOUR_USERNAME/vizr
+git clone https://github.com/ShamelesAbyss/Vizr
 cd vizr
 cargo build --release
 
